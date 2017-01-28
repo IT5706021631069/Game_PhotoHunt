@@ -1,0 +1,14 @@
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\bin\Debug\duo_pic.exe.config
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\bin\Debug\duo_pic.exe
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\bin\Debug\duo_pic.pdb
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.csprojResolveAssemblyReference.cache
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.Form1.resources
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.Properties.Resources.resources
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.csproj.GenerateResource.Cache
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.exe
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.pdb
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.Form2.resources
+c:\users\pooh\documents\visual studio 2013\Projects\duo_pic\duo_pic\obj\Debug\duo_pic.Form3.resources
+C:\Users\POOH\Downloads\Compressed\duo_pic\duo_pic\duo_pic\bin\Debug\duo_pic.exe.config
+C:\Users\POOH\Downloads\Compressed\duo_pic\duo_pic\duo_pic\obj\Debug\duo_pic.exe
+C:\Users\POOH\Downloads\Compressed\duo_pic\duo_pic\duo_pic\obj\Debug\duo_pic.pdb
